@@ -1,0 +1,11 @@
+
+.signup-image{
+    
+    background-repeat: no-repeat;
+    background-image: url('/home/ubuntu/soorya/ReactMP/miniproject/public/undraw_fingerprint_login_re_t71l-removebg-preview.png');
+    background-size: 70%;
+    margin-top: 300px;
+    margin-left: 200px;
+    transition: transform 0.3s ease;
+   
+}

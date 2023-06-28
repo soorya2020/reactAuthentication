@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+
+.container{
+  margin: 100px;
+  width: 400px;
+}
+/* .black-bg{
+  background-color:#242B2E
+} */
+
+

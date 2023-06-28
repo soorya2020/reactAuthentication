@@ -1,0 +1,19 @@
+
+button{
+    color: black !important;
+    border: 1px  solid black !important;
+}
+button:hover{
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(87, 127, 236) !important;
+}
+.employee-data-container{
+    
+    text-align: center;
+    width: 80%;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+
+    padding: 50px;
+}

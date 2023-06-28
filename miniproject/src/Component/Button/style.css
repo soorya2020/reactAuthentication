@@ -1,0 +1,20 @@
+.button-span {
+    text-align: center;
+  
+    /* padding: 15px 30px; */
+    display: block;
+    background-color: #3944F7;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+    color: #fff;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+  
+  .button-span:hover {
+    box-shadow: 0 0 5px 5px rgba(24, 78, 217, 0.34);
+    transition: all 0.3s;
+  }

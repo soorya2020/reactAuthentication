@@ -1,0 +1,12 @@
+.input-field {
+  padding: 29px 2px;
+  text-align: center;
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: medium;
+  height: 20px;
+  width: 377px;
+  outline: none;
+  border: solid 1px rgb(208, 201, 201);
+}
